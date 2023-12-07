@@ -57,7 +57,7 @@ html {
 
 .card h1 {
   font-weight: 700;
-  font-size: clamp(2.4Rem, 2.4Rem + 2vw, 5.2Rem);
+  font-size: clamp(2.4Rem, 2.4Rem + 2.3vw, 5.2Rem);
   margin-bottom: 3.6Rem;
   color: var(--dark-purple);
   display: flex;
